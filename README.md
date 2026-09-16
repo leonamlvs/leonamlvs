@@ -21,21 +21,21 @@ Here are some ideas to get you started:
   />
 </p>
 
-# <img src="./assets/conversation.gif" alt="Conversation" width="34" height="34" /> Hello, world
+# <img src="./assets/conversation.gif" alt="Conversation" width="44" height="44" /> Hello, world
 
 I'm Leonam, a software engineer with experience building APIs, integrations, and business-critical systems with **Node.js, TypeScript, SQL, and AWS**.
 
 I focus on turning complex business rules into reliable, maintainable software while continuously strengthening my fundamentals, keeping up with modern engineering practices, and making the most of the technologies available.
 
-## <img src="./assets/coffee-cup.gif" alt="Coffee cup" width="26" height="26" /> What I'm currently working on
+## <img src="./assets/coffee-cup.gif" alt="Coffee cup" width="36" height="36" /> What I'm currently working on
 
 - **AI-assisted development:** I'm experimenting with model selection, reasoning effort, context engineering, MCP, harness design, and agent orchestration to build software faster without compromising quality or engineering best practices. [Retain DSA](https://github.com/leonamlvs/retain-dsa) is one example of these practices in action.
 
-## <img src="./assets/maze.gif" alt="Maze" width="26" height="26" /> What I'm currently learning
+## <img src="./assets/maze.gif" alt="Maze" width="36" height="36" /> What I'm currently learning
 
 - **Strengthening my foundations:** I'm revisiting [CS50](https://cs50.harvard.edu/x/) while working through [*You Don't Know JS*](https://github.com/getify/You-Dont-Know-JS), [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript), and hands-on [DSA](https://leetcode.com/studyplan/leetcode-75/) practice to fill gaps in my knowledge and strengthen the theory behind my practical experience. Next on my roadmap are the official [Node.js documentation](https://nodejs.org/docs/latest/api/) and the [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html).
 
-## <img src="./assets/backend.gif" alt="Backend development" width="26" height="26" /> Tech I work with
+## <img src="./assets/backend.gif" alt="Backend development" width="36" height="36" /> Tech I work with
 
 - **Languages**  
   ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
@@ -88,12 +88,12 @@ I focus on turning complex business rules into reliable, maintainable software w
   ![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624)
   ![Windows](https://img.shields.io/badge/Windows-282C34?logo=windows11&logoColor=0078D4)
 
-## <img src="./assets/magnifying-glass.gif" alt="Magnifying glass" width="26" height="26" /> I'm also interested in
+## <img src="./assets/magnifying-glass.gif" alt="Magnifying glass" width="36" height="36" /> I'm also interested in
 
 - **Go:** I'd like to explore the language for its simplicity, performance, and growing use in backend and infrastructure software.
 - **AI Engineering:** I want to go beyond AI-assisted development and better understand LLMs, agents, and the systems behind reliable AI-powered applications.
 
-## <img src="./assets/chat.gif" alt="Chat" width="26" height="26" /> Get in touch
+## <img src="./assets/chat.gif" alt="Chat" width="36" height="36" /> Get in touch
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leonamlvs/)
 - [![Gmail](https://img.shields.io/badge/-Email-EA4335?logo=gmail\&logoColor=white)](mailto:leonamlvs@gmail.com)
